@@ -65,15 +65,8 @@ export const SPEAKERS: Speaker[] = [
 
 export const SCHEDULE_CONCLAVE: ScheduleItem[] = [
   {
-    title: 'Closed-Door Expert Sessions',
-    description: 'Thematic discussions on India\'s external security, economic resilience, and technology frontiers.',
-    speaker: 'National Policy Leadership',
-    time: '18-19 Dec'
-  },
-  {
-    title: 'Diplomatic Strategy',
-    description: 'Senior diplomats and retired service chiefs discussing global geopolitics.',
-    speaker: 'Panel Experts',
+    title: 'Strategic Conclave (18-19 December 2025)',
+    description: 'Closed-door expert sessions featuring: Senior diplomats, retired service chiefs, and policy makers. Thematic discussions on India\'s external security, economic resilience, and technology frontiers.',
     time: '18-19 Dec'
   }
 ];

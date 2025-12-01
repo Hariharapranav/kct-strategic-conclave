@@ -58,9 +58,12 @@ const Hero: React.FC = () => {
             >
               Get Your Ticket
             </a>
-            <button className="border border-gray-600 hover:border-red-800 text-gray-700 hover:text-red-800 px-8 py-4 rounded-lg text-lg font-medium transition-all">
+            <a 
+              href="#schedule"
+              className="border border-gray-600 hover:border-red-800 text-gray-700 hover:text-red-800 px-8 py-4 rounded-lg text-lg font-medium transition-all inline-block text-center hover:scale-105"
+            >
               View Agenda
-            </button>
+            </a>
           </div>
         </div>
       </div>
