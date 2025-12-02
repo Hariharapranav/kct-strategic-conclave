@@ -90,12 +90,12 @@ export const SCHEDULE_WORKSHOP: ScheduleItem[] = [
     description: "Interactive Session Two",
     speaker: "Amb Riva Ganguly Das, IFS (Retd)"
   },
-  {
-    time: "12:20 - 13:00",
-    title: "Shaping the Discourse on Public Policy and Research in India",
-    description: "Informative Session",
-    speaker: "Mrs. Aparna Ray, IFS"
-  },
+  // {
+  //   time: "12:20 - 13:00",
+  //   title: "Shaping the Discourse on Public Policy and Research in India",
+  //   description: "Informative Session",
+  //   speaker: "Mrs. Aparna Ray, IFS"
+  // },
   {
     time: "13:30 - 15:00",
     title: "Increased Tariffs and Recent Regional Conflicts: What Next for Indian Industry",

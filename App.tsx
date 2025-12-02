@@ -19,7 +19,7 @@ function App() {
         <Hero />
         {/* <Stats /> */}
         <About />
-        {/* <VideoSection /> */}
+        <VideoSection />
         <Schedule />
         <Speakers />
         <Registration />

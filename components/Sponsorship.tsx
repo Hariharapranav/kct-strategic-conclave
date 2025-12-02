@@ -192,9 +192,7 @@ const Sponsorship: React.FC = () => {
                     </div>
 
                     <a
-                      href="https://axisbpayments.razorpay.com/pl_RYqYguNQQPm9cQ/view"
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      href="#contact"
                       className="w-full py-3 rounded-lg font-bold transition-colors mt-auto text-center inline-block bg-red-800 hover:bg-red-900 text-white shadow-lg shadow-red-800/25"
                     >
                       Become a Partner

@@ -51,7 +51,7 @@ const About: React.FC = () => {
         <div className="text-center mb-20">
             <h2 className="text-blue-700 font-semibold tracking-wide uppercase text-sm mb-3">About The Initiative</h2>
             <h3 className="text-3xl md:text-5xl font-bold text-gray-800 mb-6">
-              Welcome to the World's <br/> Largest Strategic Dialogue
+              Welcome to the South India's <br/> Largest Conclave
             </h3>
             <p className="text-gray-700 text-lg leading-relaxed max-w-4xl mx-auto">
               The <strong className="text-red-800">Kumaraguru–RISET Strategic Conclave and Workshop 2025</strong> brings together India's foremost diplomats, military strategists, economists, and policy thinkers to explore how India can transform global dynamics into strategic opportunities.

@@ -23,18 +23,6 @@ const Footer: React.FC = () => {
               Reconciling Evolving Global Dynamics into Strategic Opportunities
               for India.
             </p>
-            <div className="flex gap-4 pt-4">
-              {/* Social placeholders */}
-              <div className="w-8 h-8 rounded bg-gray-700 flex items-center justify-center hover:bg-red-800 hover:text-white transition-colors cursor-pointer">
-                f
-              </div>
-              <div className="w-8 h-8 rounded bg-gray-700 flex items-center justify-center hover:bg-blue-600 hover:text-white transition-colors cursor-pointer">
-                t
-              </div>
-              <div className="w-8 h-8 rounded bg-gray-700 flex items-center justify-center hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
-                in
-              </div>
-            </div>
           </div>
 
           {/* Contact 1 */}
