@@ -1,5 +1,5 @@
 import { Mic, Users, Globe, Award, TrendingUp, Shield, Handshake, Lightbulb } from 'lucide-react';
-import { Speaker, ScheduleItem, SponsorshipTier, StatItem } from './types';
+import { Speaker, ScheduleItem, SponsorshipTier, StatItem, VideoItem } from './types';
 
 export const NAV_LINKS = [
   { name: 'Home', href: '#home' },
@@ -228,3 +228,60 @@ export const ABOUT_TEXT = {
   ki: "Kumaraguru Institutions (KI), with more than four-decade legacy of academic excellence, span disciplines such as engineering, technology, management, science, agriculture, innovation, entrepreneurship, liberal arts, and humanities. Established by Padma Bhushan Arutchelvar Dr. N. Mahalingam, KI is spread across 292 acres in 3 campuses and includes Kumaraguru College of Technology (1984), KCT Business School (2005), Kumaraguru Institute of Agriculture (2014) and Kumaraguru College of Liberal Arts and Science (2018).",
   riset: "Established in July 2025, RISET Foundation is envisioned by a team of experienced experts with diverse domain specialisation, having former and present association with the Government, Industry and Academia. It aims to bridge national ambition with actionable intelligence in three important domains - Security, Economy, and Technology – for nation building."
 };
+
+export const VIDEOS: VideoItem[] = [
+  {
+    id: 1,
+    title: 'Air Marshal Saju Balakrishnan (Retd)',
+    filename: 'Air Marshal Saju Balakrishnan (Retd).mp4',
+    path: '/videos/Air Marshal Saju Balakrishnan (Retd).mp4'
+  },
+  {
+    id: 2,
+    title: 'Brig Dr Sanjeev Chopra',
+    filename: 'BRIG DR SANJEEV CHOPRA .mp4',
+    path: '/videos/BRIG DR SANJEEV CHOPRA .mp4'
+  },
+  {
+    id: 3,
+    title: 'Dr Gulshan Rai',
+    filename: 'Dr Gulshan Rai .mp4',
+    path: '/videos/Dr Gulshan Rai .mp4'
+  },
+  {
+    id: 4,
+    title: 'Gen Raju Baggavalli',
+    filename: 'GEN RAJU BAGGAVALLI_1.mp4',
+    path: '/videos/GEN RAJU BAGGAVALLI_1.mp4'
+  },
+  {
+    id: 5,
+    title: 'Mr Pradip Phanjoubam',
+    filename: 'Mr Pradip Phanjoubam .mp4',
+    path: '/videos/Mr Pradip Phanjoubam .mp4'
+  },
+  {
+    id: 6,
+    title: 'Mr Sanjay Chadha',
+    filename: 'Mr Sanjay Chadha .mp4',
+    path: '/videos/Mr Sanjay Chadha .mp4'
+  },
+  {
+    id: 7,
+    title: 'Mr Shiv M Sahai',
+    filename: 'Mr Shiv M Sahai .mp4',
+    path: '/videos/Mr Shiv M Sahai .mp4'
+  },
+  {
+    id: 8,
+    title: 'Ms Meera Singh',
+    filename: 'Ms Meera Singh .mp4',
+    path: '/videos/Ms Meera Singh .mp4'
+  },
+  {
+    id: 9,
+    title: 'Vice Admiral Ashok Kumar',
+    filename: 'VICE ADMIRAL ASHOK KUMAR.mp4',
+    path: '/videos/VICE ADMIRAL ASHOK KUMAR.mp4'
+  }
+];

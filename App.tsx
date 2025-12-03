@@ -19,11 +19,11 @@ function App() {
         <Hero />
         {/* <Stats /> */}
         <About />
-        <VideoSection />
         <Schedule />
         <Speakers />
         <Registration />
         <Sponsorship />
+        <VideoSection />
         <Contact />
       </main>
       <Footer />

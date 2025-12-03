@@ -28,3 +28,10 @@ export interface StatItem {
   value: string;
   icon: React.ElementType;
 }
+
+export interface VideoItem {
+  id: number;
+  title: string;
+  filename: string;
+  path: string;
+}
