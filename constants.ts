@@ -231,57 +231,39 @@ export const ABOUT_TEXT = {
 
 export const VIDEOS: VideoItem[] = [
   {
-    id: 1,
-    title: 'Air Marshal Saju Balakrishnan (Retd)',
-    filename: 'Air Marshal Saju Balakrishnan (Retd).mp4',
-    path: '/videos/Air Marshal Saju Balakrishnan (Retd).mp4'
+    title: 'Expert Insights Video 1',
+    url: 'https://youtube.com/shorts/S5JTtn0S3Ss?si=HPrkStfc1Kay6V-a'
   },
   {
-    id: 2,
-    title: 'Brig Dr Sanjeev Chopra',
-    filename: 'BRIG DR SANJEEV CHOPRA .mp4',
-    path: '/videos/BRIG DR SANJEEV CHOPRA .mp4'
+    title: 'Expert Insights Video 2',
+    url: 'https://youtube.com/shorts/IzRfmdRLoHY?si=y0yxoZ9ydzFXw2xp'
   },
   {
-    id: 3,
-    title: 'Dr Gulshan Rai',
-    filename: 'Dr Gulshan Rai .mp4',
-    path: '/videos/Dr Gulshan Rai .mp4'
+    title: 'Expert Insights Video 3',
+    url: 'https://youtube.com/shorts/Jqu6co7rM0s?si=0o9yMMxBoenQoSc-'
   },
   {
-    id: 4,
-    title: 'Gen Raju Baggavalli',
-    filename: 'GEN RAJU BAGGAVALLI_1.mp4',
-    path: '/videos/GEN RAJU BAGGAVALLI_1.mp4'
+    title: 'Expert Insights Video 4',
+    url: 'https://youtube.com/shorts/POaYGPRyasg?si=188gR2n3MiEpY2ZX'
   },
   {
-    id: 5,
-    title: 'Mr Pradip Phanjoubam',
-    filename: 'Mr Pradip Phanjoubam .mp4',
-    path: '/videos/Mr Pradip Phanjoubam .mp4'
+    title: 'Expert Insights Video 5',
+    url: 'https://youtube.com/shorts/a3DjGWJKEtk?si=3ZxsMFDE0sBg8_Ps'
   },
   {
-    id: 6,
-    title: 'Mr Sanjay Chadha',
-    filename: 'Mr Sanjay Chadha .mp4',
-    path: '/videos/Mr Sanjay Chadha .mp4'
+    title: 'Expert Insights Video 6',
+    url: 'https://youtube.com/shorts/ox2V05QNUoU?si=e_ryhlbdvm5q7T4V'
   },
   {
-    id: 7,
-    title: 'Mr Shiv M Sahai',
-    filename: 'Mr Shiv M Sahai .mp4',
-    path: '/videos/Mr Shiv M Sahai .mp4'
+    title: 'Expert Insights Video 7',
+    url: 'https://youtube.com/shorts/AKSZlKm2xYw?si=iwiZSL8TC71lNwzD'
   },
   {
-    id: 8,
-    title: 'Ms Meera Singh',
-    filename: 'Ms Meera Singh .mp4',
-    path: '/videos/Ms Meera Singh .mp4'
+    title: 'Expert Insights Video 8',
+    url: 'https://youtube.com/shorts/xSRyRN26TQU?si=FVevQbhpRL1RLpL3'
   },
   {
-    id: 9,
-    title: 'Vice Admiral Ashok Kumar',
-    filename: 'VICE ADMIRAL ASHOK KUMAR.mp4',
-    path: '/videos/VICE ADMIRAL ASHOK KUMAR.mp4'
+    title: 'Expert Insights Video 9',
+    url: 'https://youtube.com/shorts/TZSiVA9a09Y?si=6ymdS1kvHYGaoBKs'
   }
 ];

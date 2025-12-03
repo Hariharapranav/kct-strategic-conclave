@@ -30,8 +30,6 @@ export interface StatItem {
 }
 
 export interface VideoItem {
-  id: number;
   title: string;
-  filename: string;
-  path: string;
+  url: string;
 }
