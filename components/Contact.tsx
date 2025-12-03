@@ -38,7 +38,7 @@ const Contact: React.FC = () => {
             {/* Contact Person 1 */}
             <div>
               <h4 className="text-lg font-semibold text-gray-800 mb-2">
-                Mr. Binu Krishna M
+                Ms. Binu Krishna M
               </h4>
               <p className="text-gray-600">
                 Mobile:{" "}
