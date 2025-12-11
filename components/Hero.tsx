@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
                 <span className="text-blue-700 font-semibold tracking-wide text-sm uppercase">18–20 December 2025</span>
             </div>
           <h1 className="text-4xl md:text-6xl font-extrabold text-gray-800 tracking-tight leading-tight mb-6">
-            Strategic Conclave & <br />
+            The Coimbatore Conclave & <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-800 to-blue-700">
               Workshop 2025
             </span>
