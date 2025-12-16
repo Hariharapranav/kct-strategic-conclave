@@ -8,6 +8,7 @@ import Schedule from './components/Schedule';
 import Speakers from './components/Speakers';
 import Registration from './components/Registration';
 import Sponsorship from './components/Sponsorship';
+import PartnerSection from './components/PartnerSection';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -24,6 +25,7 @@ function App() {
         <Registration />
         <Sponsorship />
         <VideoSection />
+        <PartnerSection />
         <Contact />
       </main>
       <Footer />
